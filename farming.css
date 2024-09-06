@@ -1,0 +1,143 @@
+
+
+
+body{
+    background-color: rgb(140, 255, 0); border: none;
+    .hometab{ font-size: x-large;}
+}
+body .fieldset1{
+    .head1{
+        color: blue; 
+    }
+    .par1{
+        color: aquamarine; text-align: center; font-size: larger;
+    }
+    .par2{
+        font-size: larger;
+    }
+    .head2{
+        color: blue;
+    }
+    .par3{
+        color: deeppink; font-size: larger;
+    }
+    .head3{
+        color: blue;
+    }
+    .center1 {
+        display: flex; justify-content: center; font-size: x-large;
+    }
+    .social12 a{
+        width: 50; height: 200; background-color: black; font-size: 24px;
+    }
+    .fb1{
+        height: 30; width: 100;
+    }
+
+    /* General styling for the social media icons */
+.social1 {
+    display: flex;
+    justify-content: center; /* Center the icons */
+    gap: 30px; /* Space between the icons */
+    margin-top: 20px; height: 100; width: 20;
+}
+
+
+
+}
+
+
+
+
+
+.gallery{
+    .link3{
+        color: chartreuse; font-size: x-large; justify-content: center; text-align: center;
+        display: flex; gap: 90px; animation: alternate-reverse;
+    }
+
+
+
+}
+
+
+
+
+
+
+.loop{
+    
+    background-color: greenyellow;
+    .link3{
+        color: chartreuse; font-size: x-large; justify-content: center; text-align: center;
+        display: flex; gap: 40px; animation: alternate-reverse;
+    }
+    .hometab{
+        font-size: x-large;
+    }
+    
+   
+
+}
+
+
+
+.managu{
+
+    background-color: azure;
+    .img1{ height: 500px; width: 500px; float: right; }
+    .link3{ font-size: x-large; text-align: right;}
+
+    .par2{ font-size: x-large; text-align: center; justify-content: center;  }
+    .par3{ font-size: x-large; text-align: right; justify-content: center;  }
+    .par4{ font-size: x-large;  justify-content: center;  }
+
+
+    .img2{ height: 400px; width: 400px; float: left; } 
+    .img3{ height: 500px; width: 500px; float: right }
+
+
+
+}
+
+
+
+
+
+.chicken{
+
+    background-color: burlywood;
+    .par2{ font-size: x-large; text-align: center; justify-content: center;  }
+    .par3{ font-size: x-large; text-align: left; justify-content: center;  }
+
+    .link3{ font-size: x-large; text-align: center;}
+
+    
+    .img1{ height: 400px; width: 400px; float: left; } 
+    .img2{ height: 500px; width: 500px; float: right }
+}
+ 
+
+
+
+
+
+.sukuma1{
+    background-color: dimgrey;
+    .link3{ font-size: x-large; text-align: center;}
+
+    .img1{ height: 400px; width: 400px;  } 
+    .par2{ font-size: x-large; float: right;  }
+
+    .img2{ height: 500px; width: 500px;  }
+    .par3{ font-size: x-large; float: right;  }
+
+    .img3{ height: 400px; width: 400px;  } 
+    .par4{ font-size: x-large; float: right;  }
+
+    .img4{ height: 500px; width: 500px;  }
+    .par5{ font-size: x-large; float: right;  ;}
+}
+
+
+
